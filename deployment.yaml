@@ -15,5 +15,5 @@ spec:
         app: pet-deploy
     spec:
       containers:
-      - image: jigme95/jigme:19
+      - image: pemalodup/jigme:19
         name: jigme
